@@ -20,9 +20,9 @@ NOTE:
 You'll find most of necessary entries for the icon request in a app's desktop-file, usually placed in /usr/share/applications/ folder (Ex. /usr/share/applications/firefox.desktop).
 -->
 
-- **App Name:**
-- **Icon Name:**
-- **Description:**
+- **App Name:**spotify and museeks
+- **Icon Name:* spotify and museeks
+- **Description:** pls add this 2 icon
 - **Webpage (optional):**
 - **Original Icon:**
     <!-- upload (or just drag and drop) the original app icon below -->
